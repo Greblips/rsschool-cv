@@ -10,4 +10,4 @@ Preferred communication method:
 4. I learned HTML and CSS on youtube channel and books.
 5. I have an pre-intermediate level in English.
 6. Education :College of Information Technology and Automated Systems(programmer)
-7. Skills: MS Office, Photoshop, Corel Draw, Pascal, HTML, CSS
+7.  OTHER Skills: MS Office, Photoshop, Corel Draw, Pascal
