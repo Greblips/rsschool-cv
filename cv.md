@@ -1,32 +1,27 @@
-rsschool-cv
-Andrei Kryvetski
-Contacts
-Location: Minsk, Belarus
-Phone: +375 29 134-40-41
-Email: kryvetskistud@gmail.com
-GitHub: kryvetski-andrei
-About Me
+# **Information**
+Evgeny Kerimov
+## **Contacts**
+Location: Saint_Petersburg, Russia
+Phone: +7 951 677 00 76
+Email: EvgenSpilberg@gmail.com
+GitHub: https://github.com/Greblips
+## **About Me:**
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
-Skills
-HTML
-CSS/SASS
-JavaScript (Basic)
-Git
-Code Example
-function sum(a, b) {
-  return a + b;
-}
+## **Skills:**
+1.HTML
+2.CSS/SASS
+3.JavaScript (Basic)
+4.Git
+5.Photoshop
+6.Figma
+7.BootStrap
+8.Webpack
 
-let result = sum(1, 2);
-alert( result );
-Experience
-Education
-University: Belarusian National Technical University, Civil Engineering major
-Courses:
-CS50 lectures
-FreeCodeCamp
-HTML Academy
-English
-A2 (I had been practicing English, when I worked in the USA as an exchange student)
+
+## **Education:**
+1.Computer Engineer and Automated Systems Engineer
+1.Avalon Academy
+1.HTML Academy
+1.1English - A2 
