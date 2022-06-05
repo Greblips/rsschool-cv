@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+   
+}
+.mainSection{
+    position: relative;
+    width: 60%;
+    margin: 0 auto;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 3.5rem;
+  
+}
+h2{
+    font-size: 2rem; 
+}
+
+.mainBlock {
+      
+ 
+}
+.myName {
+    
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+    
+}
+.aboutMe {
+    padding-bottom: 1rem;
+    font-style: italic;
+    padding-left: 1rem;
+    display: flex;
+    font-size: 2rem;
+    
+    
+}
+ol {
+    padding-bottom: 1rem;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    font-size: 1.5rem;
+}
+.listAndFoto{
+    padding-top: 2rem;
+    justify-content: center;
+    display: flex;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+}
+.myFoto{
+    padding-left: 2rem;
+    display: flex;
+    width: 500px;
+    height: 500px;
+   
+
+}
