@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .mainSection{
-    position: relative;
+   
     width: 60%;
     margin: 0 auto;
 }
@@ -41,16 +41,22 @@ li{
     font-size: 1.5rem;
 }
 .listAndFoto{
+    margin: 0 auto;
+    width: 60%;
     padding-top: 2rem;
-    justify-content: center;
     display: flex;
+    justify-content: center;
+    
+  
+    
 }
 .list {
+    font-size: 2rem;
     display: flex;
     flex-direction: column;
 }
 .myFoto{
-    padding-left: 2rem;
+    
     display: flex;
     width: 500px;
     height: 500px;
@@ -68,4 +74,13 @@ footer a{
 svg{
     margin-left: 1rem;
     width: 4rem;
+}
+p{
+    font-size: 2rem;
+    font-weight: 500;
+}
+pre{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    font-size: 1.75rem;
 }
