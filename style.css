@@ -2,11 +2,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-   
-   
 }
 .mainSection{
-    position: relative;
+   
     width: 60%;
     margin: 0 auto;
 }
@@ -14,23 +12,16 @@ h1{
     display: flex;
     justify-content: center;
     font-size: 3.5rem;
-  
 }
 h2{
-    font-size: 2rem; 
+    font-size: 2rem;
 }
 
-.mainBlock {
-      
- 
-}
 .myName {
-    
     font-size: 3rem;
     display: flex;
     justify-content: center;
     padding-bottom: 1rem;
-    
 }
 .aboutMe {
     padding-bottom: 1rem;
@@ -38,8 +29,6 @@ h2{
     padding-left: 1rem;
     display: flex;
     font-size: 2rem;
-    
-    
 }
 ol {
     padding-bottom: 1rem;
@@ -52,19 +41,46 @@ li{
     font-size: 1.5rem;
 }
 .listAndFoto{
+    margin: 0 auto;
+    width: 60%;
     padding-top: 2rem;
-    justify-content: center;
     display: flex;
+    justify-content: center;
+    
+  
+    
 }
 .list {
+    font-size: 2rem;
     display: flex;
     flex-direction: column;
 }
 .myFoto{
-    padding-left: 2rem;
+    
     display: flex;
     width: 500px;
     height: 500px;
-   
 
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 2rem;
+}
+footer a{
+    text-decoration: none;
+}
+svg{
+    margin-left: 1rem;
+    width: 4rem;
+}
+p{
+    font-size: 2rem;
+    font-weight: 500;
+}
+pre{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    font-size: 1.75rem;
 }
