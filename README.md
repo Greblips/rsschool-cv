@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Greblips.github.io/rsschool-cv/
